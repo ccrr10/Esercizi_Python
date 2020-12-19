@@ -1,5 +1,5 @@
 ﻿def IsItATriangle(a,b,c):
-    return a+b>c and b+c>a and c+a>b
+    return a+b>c and b+c>a and c+a>b #prova di commit
 
 def Heron(a,b,c):
     p=(a+b+c)/2
