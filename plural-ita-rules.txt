@@ -1,0 +1,10 @@
+[^fnsaeiou](scia)$		a$		e
+(ggia|ncia|scia)$		ia$		e
+(gia|cia)$			ia$		e
+[^st](to)			o$		a
+(?<=capo)\D*			^capo		capi 
+(ma)$				a$		i
+((?<=mezza)\D*)			mezza		mezze
+(ca)$				ca$		che
+[^m](a)$			a$		e
+(e|o|io)$			e$|o$|io$	i
